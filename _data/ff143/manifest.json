@@ -59,7 +59,9 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "",
+                  "id": " https://dl.dropboxusercontent.com/s/ctedto8mz40g9mr/FF143.mp3?raw=1",
+                  "type": "Sound",
+                  "format": "audio/mp3",
                     "duration": 2362
                 },
                 "target": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas"
