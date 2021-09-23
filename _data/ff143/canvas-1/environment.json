@@ -1,0 +1,155 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas/environment.json",
+  "type": "AnnotationPage",
+  "label": "Environment",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas/environment-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[sigh]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1227.057711,1228.353892"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas/environment-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Sonia Sanchez singing]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1342.479536,1350.22576"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas/environment-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Sigh]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1650.955164,1651.788423"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas/environment-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Crying]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1652.729697,1672.203273"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas/environment-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[sniffle]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1675.382002,1675.999231"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas/environment-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughs]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1710.903531,1711.567053"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas/environment-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[A/V cuts out]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1811.555038,1827.374646"
+        }
+      }
+    }
+  ]
+}
