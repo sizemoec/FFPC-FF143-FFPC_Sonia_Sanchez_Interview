@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Sonia Sanchez Interview, 9/25/2004" ] },
+    "summary": { "en": [ "Joanne V. Gabbin interviews Sonia Sanchez, camera stays on Sanchez" ] },
+    "items": [
+    ]
+}
