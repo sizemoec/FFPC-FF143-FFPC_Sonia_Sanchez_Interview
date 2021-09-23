@@ -13,7 +13,7 @@
     ],
     "provider": [
       {
-        "id": "https://commons.lib.jmu.edu/",
+        "id": "https://commons.lib.jmu.edu",
         "type": "Agent",
         "label": { "en": [ "JMU Libraries" ] }
       }
@@ -22,33 +22,7 @@
       {
         "id": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 2362,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas/environment.json",
-            "label": "Environment"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas/transcription.json",
-            "label": "Transcription"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas/speaker.json",
-            "label": "Speaker"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas/transcription--poem.json",
-            "label": "Transcription, Poem"
-          }
-        ],
+        "duration": 2362.0,
         "items": [
           {
             "id": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/paintings",
@@ -62,7 +36,7 @@
                   "id": " https://dl.dropboxusercontent.com/s/ctedto8mz40g9mr/FF143.mp3?raw=1",
                   "type": "Sound",
                   "format": "audio/mp3",
-                    "duration": 2362
+                    "duration": 2362.0
                 },
                 "target": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas"
               }
