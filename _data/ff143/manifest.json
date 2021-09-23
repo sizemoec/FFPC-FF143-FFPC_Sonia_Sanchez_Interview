@@ -33,8 +33,20 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas/transcription.json",
+            "label": "Transcription"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas/speaker.json",
             "label": "Speaker"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://sizemoec.github.io/FFPC-FF143-FFPC_Sonia_Sanchez_Interview/ff143/canvas-1/canvas/transcription--poem.json",
+            "label": "Transcription, Poem"
           }
         ],
         "items": [
